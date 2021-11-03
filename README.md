@@ -1,2 +1,24 @@
-# Swift-Protocols
-Protocols
+# [go back to Overview](https://github.com/c4arl0s)
+
+# [Swift-Protocols - Content](https://github.com/c4arl0s/swift-protocols#go-back-to-overview)
+
+1. [ ] [1. Protocol Syntax]()
+2. [ ] [2. Property Requirements]()
+3. [ ] [3. Method Requirements]()
+4. [ ] [4. Mutating Method Requirements]()
+5. [ ] [5. Class Implementations of Protocol Initializer Requirements]()
+6. [ ] [6. Protocols as Types]()
+7. [ ] [7. Delegation]()
+8. [ ] [8. Adding Protocol Conformance with an Extension]()
+9. [ ] [9. Conditionally Conforming to a Protocol]()
+10. [ ] [10. Declaring Protocol Adoption with an Extension]()
+11. [ ] [11. Adopting a Protocol Using a Synthesized Implementation]()
+12. [ ] [12. Collections of Protocol Types]()
+13. [ ] [13. Protocol Inheritance]()
+14. [ ] [14. Class-Only Protocols]()
+15. [ ] [15. Protocol Composition]()
+16. [ ] [16. Checking for Protocol Conformance]()
+17. [ ] [17. Optional Protocol Requirements]()
+18. [ ] [18. Protocol Extensions]()
+19. [ ] [19. Providing Default Implementations]()
+
