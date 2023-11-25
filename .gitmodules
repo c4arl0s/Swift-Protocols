@@ -1,0 +1,48 @@
+[submodule "1Protocol-Syntax"]
+	path = 1Protocol-Syntax
+	url = git@github.com:c4arl0s/1Protocol-Syntax.git
+[submodule "2Property-Requirements"]
+	path = 2Property-Requirements
+	url = git@github.com:c4arl0s/2Property-Requirements.git
+[submodule "3Method-Requirements"]
+	path = 3Method-Requirements
+	url = git@github.com:c4arl0s/3Method-Requirements.git
+[submodule "4Mutating-Method-Requirements"]
+	path = 4Mutating-Method-Requirements
+	url = git@github.com:c4arl0s/4Mutating-Method-Requirements.git
+[submodule "5Initializer-Requirements"]
+	path = 5Initializer-Requirements
+	url = git@github.com:c4arl0s/5Initializer-Requirements.git
+[submodule "6Protocols-as-Types"]
+	path = 6Protocols-as-Types
+	url = git@github.com:c4arl0s/6Protocols-as-Types.git
+[submodule "7Delegation"]
+	path = 7Delegation
+	url = git@github.com:c4arl0s/7Delegation.git
+[submodule "8Adding-Protocol-Conformance-With-An-Extension"]
+	path = 8Adding-Protocol-Conformance-With-An-Extension
+	url = git@github.com:c4arl0s/8Adding-Protocol-Conformance-With-An-Extension.git
+[submodule "9Adopting-a-Protocol-Using-a-Synthesized-Implementation"]
+	path = 9Adopting-a-Protocol-Using-a-Synthesized-Implementation
+	url = git@github.com:c4arl0s/9Adopting-a-Protocol-Using-a-Synthesized-Implementation.git
+[submodule "10Collections-of-Protocol-Types"]
+	path = 10Collections-of-Protocol-Types
+	url = git@github.com:c4arl0s/10Collections-of-Protocol-Types.git
+[submodule "11Protocol-Inheritance"]
+	path = 11Protocol-Inheritance
+	url = git@github.com:c4arl0s/11Protocol-Inheritance.git
+[submodule "12Class-Only-Protocols"]
+	path = 12Class-Only-Protocols
+	url = git@github.com:c4arl0s/12Class-Only-Protocols.git
+[submodule "13Protocol-Composition"]
+	path = 13Protocol-Composition
+	url = git@github.com:c4arl0s/13Protocol-Composition.git
+[submodule "14Checking-for-Protocol-Conformance"]
+	path = 14Checking-for-Protocol-Conformance
+	url = git@github.com:c4arl0s/14Checking-for-Protocol-Conformance.git
+[submodule "15Optional-Protocol-Requirements"]
+	path = 15Optional-Protocol-Requirements
+	url = git@github.com:c4arl0s/15Optional-Protocol-Requirements.git
+[submodule "16Protocol-Extensions"]
+	path = 16Protocol-Extensions
+	url = git@github.com:c4arl0s/16Protocol-Extensions.git
