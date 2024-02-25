@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [Swift-Protocols - Content](https://github.com/c4arl0s/swift-protocols#go-back-to-overview)
 
 1. [x] [1. Protocol Syntax](https://github.com/c4arl0s/1Protocol-Syntax/blob/main/README.md#1-protocol-syntax)
